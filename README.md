@@ -10,6 +10,8 @@
 - **Before interview:** Jump to the interview Q&A at the bottom of each section
 - **Last-minute revision:** Use the Quick Reference table at the end
 
+> 📂 **Full-Stack Interview Prep (12–14 LPA):** JS/TS, React/Next.js, Node, Postgres/Prisma, Razorpay, Realtime, Azure OpenAI, System Design + HR. See the [Interview-Prep folder](Interview-Prep/README.md).
+
 ---
 
 ## A. LLM Fundamentals
